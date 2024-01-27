@@ -1,0 +1,482 @@
+[
+    {
+        "context": "Hai! ITTPBot di sini. Ada yang ingin ditanyakan?. Halo! Saya ITTPBot, salam kenal ya! apa yang bisa saya bantu hari ini?. Helo! Ini ITTPBot. Ada yang ingin kamu ketahui?",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "Haiiiiiii",
+                "answers": [
+                    {
+                        "text": "Hai! ITTPBot di sini.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Kampus Merdeka adalah kebijakan yang dikeluarkan oleh Kemendikbudristek dengan memberikan hak kepada Mahasiswa untuk mengambil mata kuliah di luar program studi selama 1 semester dan berkegiatan di luar perguruan tinggi selama 2 semester. Perguruan tinggi diberikan kebebasan untuk menyediakan kegiatan Kampus Merdeka yang sesuai dengan kebutuhan dan minat mahasiswanya.",
+        "qas": [
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "Jelaskan mengenai Kampus Merdeka?",
+                "answers": [
+                    {
+                        "text": "Kampus Merdeka adalah kebijakan yang dikeluarkan oleh Kemendikbudristek dengan memberikan hak kepada Mahasiswa untuk mengambil mata kuliah di luar program studi selama 1 semester dan berkegiatan di luar perguruan tinggi selama 2 semester.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Jenis kegiatan yang tersedia di program Kampus Merdeka, yaitu: Magang Bersertifikat, Studi Independen, Kampus Mengajar, Indonesian International Student Mobility Awards (IISMA), Pertukaran Mahasiswa Merdeka, Membangun Desa (KKN Tematik), Proyek Kemanusiaan, Riset atau Penelitian, dan Wirausaha.",
+        "qas": [
+            {
+                "id": "00010",
+                "is_impossible": false,
+                "question": "Apa saja pilihan program Kampus Merdeka yang bisa diambil mahasiswa?",
+                "answers": [
+                    {
+                        "text": "Jenis kegiatan yang tersedia di program Kampus Merdeka, yaitu: Magang Bersertifikat, Studi Independen, Kampus Mengajar, Indonesian International Student Mobility Awards (IISMA), Pertukaran Mahasiswa Merdeka, Membangun Desa (KKN Tematik), Proyek Kemanusiaan, Riset atau Penelitian, dan Wirausaha.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Studi Independen merupakan salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk mewujudkan gagasan mahasiswa dalam mengembangkan diri melalui aktivitas di luar perkuliahan dan menambah kompetensi spesifik serta praktis yang akan digunakan dalam dunia industri.",
+        "qas": [
+            {
+                "id": "00012",
+                "is_impossible": false,
+                "question": "Jelaskan mengenai Studi Independen?",
+                "answers": [
+                    {
+                        "text": "Studi Independen merupakan salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk mewujudkan gagasan mahasiswa dalam mengembangkan diri melalui aktivitas di luar perkuliahan dan menambah kompetensi spesifik serta praktis yang akan digunakan dalam dunia industri.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Mahasiswa dari semua jurusan pada jenjang D3, D4, dan S1 dapat mengikuti program Studi Independen dengan persetujuan dari Perguruan Tinggi masing-masing.",
+        "qas": [
+            {
+                "id": "00018",
+                "is_impossible": false,
+                "question": "Apakah mahasiswa dari semua jurusan dan jenjang dapat mengikuti program Studi Independen?",
+                "answers": [
+                    {
+                        "text": "Mahasiswa dari semua jurusan pada jenjang D3, D4, dan S1 dapat mengikuti program Studi Independen dengan persetujuan dari Perguruan Tinggi masing-masing.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat yang didapatkan, yaitu memberikan kesempatan kepada mahasiswa untuk mengasah dan mendapatkan kemampuan, pengetahuan dan sikap di dunia industri dengan cara bekerja dan belajar secara langsung dalam proyek atau permasalahan nyata. Selain manfaat tersebut keuntungan yang didapatkan yaitu konversi hingga 20 SKS, dapat melakukan program sertifikasi yang diakui Kemendikbudristek selama 1-2 semester, biaya partisipasi serta biaya hidup, dan sertifikat sertifikasi atau short course.",
+        "qas": [
+            {
+                "id": "00028",
+                "is_impossible": false,
+                "question": "Apa saja manfaat yang bisa diperoleh mahasiswa dari Studi Independen?",
+                "answers": [
+                    {
+                        "text": "Manfaat yang didapatkan, yaitu memberikan kesempatan kepada mahasiswa untuk mengasah dan mendapatkan kemampuan, pengetahuan dan sikap di dunia industri dengan cara bekerja dan belajar secara langsung dalam proyek atau permasalahan nyata.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Magang Bersertifikat adalah bagian dari program Kampus Merdeka yang bertujuan untuk memberikan kesempatan kepada mahasiswa belajar dan mengembangkan diri melalui aktivitas di luar kelas perkuliahan. Di program Magang Bersertifikat, mahasiswa akan mendapatkan pengalaman kerja di industri/dunia profesi nyata selama 1-2 semester. Dengan pembelajaran langsung di tempat kerja mitra magang, mahasiswa akan mendapatkan hard skills maupun soft skills yang akan menyiapkan mahasiswa agar lebih mantab untuk memasuki dunia kerja dan karirnya.",
+        "qas": [
+            {
+                "id": "00032",
+                "is_impossible": false,
+                "question": "Jelaskan apa itu Magang Bersertifikat?",
+                "answers": [
+                    {
+                        "text": "Magang Bersertifikat adalah bagian dari program Kampus Merdeka yang bertujuan untuk memberikan kesempatan kepada mahasiswa belajar dan mengembangkan diri melalui aktivitas di luar kelas perkuliahan.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Mahasiswa dari semua jurusan pada jenjang S1 dapat mengikuti program Magang Bersertifikat dengan persetujuan dari Perguruan Tinggi masing-masing.",
+        "qas": [
+            {
+                "id": "00037",
+                "is_impossible": false,
+                "question": "Apakah ada persyaratan jenjang pendidikan untuk mengikuti program Magang Bersertifikat?",
+                "answers": [
+                    {
+                        "text": "Mahasiswa dari semua jurusan pada jenjang S1 dapat mengikuti program Magang Bersertifikat dengan persetujuan dari Perguruan Tinggi masing-masing.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat yang didapatkan, yaitu mendapatkan kemampuan, pengetahuan dan sikap di dunia industri dengan cara bekerja dan belajar secara langsung dalam proyek.",
+        "qas": [
+            {
+                "id": "00042",
+                "is_impossible": false,
+                "question": "Apa benefit yang didapatkan dari program Magang?",
+                "answers": [
+                    {
+                        "text": "Manfaat yang didapatkan, yaitu mendapatkan kemampuan, pengetahuan dan sikap di dunia industri dengan cara bekerja dan belajar secara langsung dalam proyek.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Kampus Mengajar adalah salah satu program Kampus Merdeka Kemendikbud berbentuk kegiatan pembelajaran oleh mahasiswa yang memiliki minat dalam memperdalam ilmunya serta membantu meningkatkan pemerataan kualitas pendidikan. Sekolah tempat praktek mengajar dapat berada di lokasi kota maupun di daerah terpencil.",
+        "qas": [
+            {
+                "id": "00051",
+                "is_impossible": false,
+                "question": "Definisi Kampus Mengajar?",
+                "answers": [
+                    {
+                        "text": "Kampus Mengajar adalah salah satu program Kampus Merdeka Kemendikbud berbentuk kegiatan pembelajaran oleh mahasiswa yang memiliki minat dalam memperdalam ilmunya serta membantu meningkatkan pemerataan kualitas pendidikan. Sekolah tempat praktek mengajar dapat berada di lokasi kota maupun di daerah terpencil.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Syarat mengikuti Kampus Mengajar yaitu mahasiswa aktif semester 4, memiliki IPK minimum 3.00, memiliki pengalaman mengajar maupun berorganisasi, memperoleh surat rekomendasi dari Perguruan tinggi, serta belum pernah mengikuti program Kampus Mengajar.",
+        "qas": [
+            {
+                "id": "00053",
+                "is_impossible": false,
+                "question": "Apa kriteria yang harus dipenuhi untuk Kampus Mengajar?",
+                "answers": [
+                    {
+                        "text": "Syarat mengikuti Kampus Mengajar yaitu mahasiswa aktif semester 4, memiliki IPK minimum 3.00, memiliki pengalaman mengajar maupun berorganisasi, memperoleh surat rekomendasi dari Perguruan tinggi, serta belum pernah mengikuti program Kampus Mengajar.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat yang didapatkan, yaitu mendapatkan bantuan biaya hidup serta UKT (bagi yang tidak sedang menerima bantuan pemerintah lainnya), mengasah kepemimpinan, kreativitas, pemecahan masalah, inovasi, serta terlibat langsung dalam pembelajaran di jenjang SD dan SMP.",
+        "qas": [
+            {
+                "id": "00057",
+                "is_impossible": false,
+                "question": "Apa benefit yang didapatkan dari mengikuti program Kampus Mengajar?",
+                "answers": [
+                    {
+                        "text": "Manfaat yang didapatkan, yaitu mendapatkan bantuan biaya hidup serta UKT (bagi yang tidak sedang menerima bantuan pemerintah lainnya), mengasah kepemimpinan, kreativitas, pemecahan masalah, inovasi, serta terlibat langsung dalam pembelajaran di jenjang SD dan SMP.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "IISMA adalah singkatan dari Indonesian International Student Mobility Awards. Salah satu program Kampus Merdeka Kemendikbud berupa skema beasiswa dari Pemerintah Indonesia untuk mendanai siswa dalam program mobilitas ke universitas terkemuka di luar negeri.",
+        "qas": [
+            {
+                "id": "00059",
+                "is_impossible": false,
+                "question": "Apa kepanjangan IISMA?",
+                "answers": [
+                    {
+                        "text": "IISMA adalah singkatan dari Indonesian International Student Mobility Awards.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Syarat IISMA yaitu mahasiswa aktif semester 4 hingga 6, maksimal berumur 23 tahun, memiliki IPK minimal 3.00, memiliki score IELTS - 6.0, TOEFL iBT - 78, Duolingo English Test - 100, mendapatkan surat rekomendasi Perguruan Tinggi, serta belum pernah mengikuti program IISMA maupun beasiswa LPDP.",
+        "qas": [
+            {
+                "id": "00063",
+                "is_impossible": false,
+                "question": "Apa syarat mengikuti program IISMA?",
+                "answers": [
+                    {
+                        "text": "Syarat IISMA yaitu mahasiswa aktif semester 4 hingga 6, maksimal berumur 23 tahun, memiliki IPK minimal 3.00, memiliki score IELTS - 6.0, TOEFL iBT - 78, Duolingo English Test - 100, mendapatkan surat rekomendasi Perguruan Tinggi, serta belum pernah mengikuti program IISMA maupun beasiswa LPDP.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya pendaftaran, pendidikan, serta biaya hidup selama 1 semester, test PCR, karantina, visa, transport, dan asuransi kesehatan",
+        "qas": [
+            {
+                "id": "00072",
+                "is_impossible": false,
+                "question": "Apa manfaat mengikuti program IISMA?",
+                "answers": [
+                    {
+                        "text": "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya pendaftaran, pendidikan, serta biaya hidup selama 1 semester, test PCR, karantina, visa, transport, dan asuransi kesehatan",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Pertukaran Mahasiswa Merdeka merupakan pertukaran pelajar dengan program studi yang sama ke Perguruan Tinggi berbeda maupun pertukaran pelajar dengan program studi berbeda ke Perguruan Tinggi berbeda. Kegiatan pembelajaran dapat secara tatap muka atau daring. Program ini bertujuan untuk memperkaya pengalaman dan konteks keilmuan mahasiswa.",
+        "qas": [
+            {
+                "id": "00076",
+                "is_impossible": false,
+                "question": "Jelaskan mengenai Program Pertukaran Mahasiswa Merdeka?",
+                "answers": [
+                    {
+                        "text": "Pertukaran Mahasiswa Merdeka merupakan pertukaran pelajar dengan program studi yang sama ke Perguruan Tinggi berbeda maupun pertukaran pelajar dengan program studi berbeda ke Perguruan Tinggi berbeda.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Persyaratan program pertukaran mahasiswa merdeka yaitu merupakan mahasiswa aktif semester 3, 5, dan 7, memiliki IPK minimal 2.75, memiliki pengalaman prestasi non-akademik tingkat daerah/nasional/internasional, tidak pernah dikenakan sanksi akademik maupun non-akademik, serta mendapatkan surat rekomendasi dari Perguruan Tinggi dan izin orang tua.",
+        "qas": [
+            {
+                "id": "00080",
+                "is_impossible": false,
+                "question": "Apa syarat mengikuti Program Pertukaran Mahasiswa Merdeka?",
+                "answers": [
+                    {
+                        "text": "Persyaratan program pertukaran mahasiswa merdeka yaitu merupakan mahasiswa aktif semester 3, 5, dan 7, memiliki IPK minimal 2.75, memiliki pengalaman prestasi non-akademik tingkat daerah/nasional/internasional, tidak pernah dikenakan sanksi akademik maupun non-akademik, serta mendapatkan surat rekomendasi dari Perguruan Tinggi dan izin orang tua.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya hidup dan UKT, transport pulang-pergi ke kampus tujuan, dan biaya rapid pulang-pergi",
+        "qas": [
+            {
+                "id": "00084",
+                "is_impossible": false,
+                "question": "Apa benefit dari mengikuti program Pertukaran Mahasiswa Merdeka?",
+                "answers": [
+                    {
+                        "text": "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya hidup dan UKT, transport pulang-pergi ke kampus tujuan, dan biaya rapid pulang-pergi",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Program Bangkit adalah program kesiapan karier yang didesain oleh Google untuk memberikan mahasiswa Indonesia paparan langsung dengan praktisi industri, serta mempersiapkan mahasiswa dengan keterampilan yang relevan untuk karier sukses di perusahaan teknologi terkemuka.",
+        "qas": [
+            {
+                "id": "00112",
+                "is_impossible": false,
+                "question": "Apa itu program Bangkit?",
+                "answers": [
+                    {
+                        "text": "Program Bangkit adalah program kesiapan karier yang didesain oleh Google untuk memberikan mahasiswa Indonesia paparan langsung dengan praktisi industri, serta mempersiapkan mahasiswa dengan keterampilan yang relevan untuk karier sukses di perusahaan teknologi terkemuka.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Persyaratannya yaitu mahasiswa aktif D4 atau S1, minimal semester 5, di kampus terakreditasi bagi S1 atau politeknik di Indonesia bagi D4. Untuk mahasiswa D3, minimal semester 3. Memberikan surat komitmen dan surat rekomendasi universitas.",
+        "qas": [
+            {
+                "id": "00114",
+                "is_impossible": false,
+                "question": "Apa saja persyaratan progam Bangkit?",
+                "answers": [
+                    {
+                        "text": "Persyaratannya yaitu mahasiswa aktif D4 atau S1, minimal semester 5, di kampus terakreditasi bagi S1 atau politeknik di Indonesia bagi D4. Untuk mahasiswa D3, minimal semester 3. Memberikan surat komitmen dan surat rekomendasi universitas.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Bangkit menawarkan 3 pilihan jalur pembelajaran yaitu machine learning, mobile development, dan cloud computing. Tidak hanya keterampilan teknologi, Bangkit juga menyediakan pengembangan Bahasa Inggris dan soft skill yang penting untuk persiapan karir.",
+        "qas": [
+            {
+                "id": "00118",
+                "is_impossible": false,
+                "question": "Apa program-program yang ditawarkan dalam program Bangkit?",
+                "answers": [
+                    {
+                        "text": "Bangkit menawarkan 3 pilihan jalur pembelajaran yaitu machine learning, mobile development, dan cloud computing.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Keterampilan penting untuk karier yang sukses di perusahaan teknologi terkemuka, peluang untuk menerapkan pembelajaran Anda ke proyek skala nasional dunia nyata, kesempatan untuk belajar dari pakar dan praktisi industri saat ini, persiapan dan voucher gratis untuk ujian sertifikasi AAD atau ACE atau Tensorflow, dan kemungkinan mendapatkan dan menerapkan hingga 20 SKS ke program gelar universitas Anda.",
+        "qas": [
+            {
+                "id": "00121",
+                "is_impossible": false,
+                "question": "Apa keuntungan yang bisa didapatkan dari program Bangkit?",
+                "answers": [
+                    {
+                        "text": "Keterampilan penting untuk karier yang sukses di perusahaan teknologi terkemuka, peluang untuk menerapkan pembelajaran Anda ke proyek skala nasional dunia nyata, kesempatan untuk belajar dari pakar dan praktisi industri saat ini, persiapan dan voucher gratis untuk ujian sertifikasi AAD atau ACE atau Tensorflow, dan kemungkinan mendapatkan dan menerapkan hingga 20 SKS ke program gelar universitas Anda.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Kuliah Kerja Nyata Tematik atau KKNT merupakan suatu bentuk Pendidikan dengan cara memberikan pengalaman belajar kepada mahasiswa untuk hidup di tengah masyarakat di luar kampus, yang secara langsung bersama-sama masyarakat mengidentifikasi potensi dan menangani masalah sehingga diharapkan mampu mengembangkan potensi desa atau daerah dan meramu solusi untuk masalah yang ada di desa. Kegiatan KKNT diharapkan dapat mengasah softskill kemitraan, Kerjasama tim lintas disiplin keilmuan atau lintas kompetensi, dan leadership mahasiswa dalam mengelola program pembangunan di wilayah perdesaan.",
+        "qas": [
+            {
+                "id": "00123",
+                "is_impossible": false,
+                "question": "Definisi Kuliah Kerja Nyata Tematik?",
+                "answers": [
+                    {
+                        "text": "Kuliah Kerja Nyata Tematik atau KKNT merupakan suatu bentuk Pendidikan dengan cara memberikan pengalaman belajar kepada mahasiswa untuk hidup di tengah masyarakat di luar kampus, yang secara langsung bersama-sama masyarakat mengidentifikasi potensi dan menangani masalah sehingga diharapkan mampu mengembangkan potensi desa atau daerah dan meramu solusi untuk masalah yang ada di desa. Kegiatan KKNT diharapkan dapat mengasah softskill kemitraan, Kerjasama tim lintas disiplin keilmuan atau lintas kompetensi, dan leadership mahasiswa dalam mengelola program pembangunan di wilayah perdesaan.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Manfaat dari program KKNT yaitu membuat mahasiswa mampu melihat potensi desa, mengidentifikasi masalah dan mencari solusi untuk meningkatkan potensi dan menjadi desa mandiri, Membuat mahasiswa dapat mengaplikasikan ilmu yang dimiliki secara kolaboratif bersama dengan Pemerintah Desa dan unsur masyarakat untuk membangun desa.",
+        "qas": [
+            {
+                "id": "00128",
+                "is_impossible": false,
+                "question": "Manfaat apa yang dapat diperoleh dari mengikuti program KKNT?",
+                "answers": [
+                    {
+                        "text": "Manfaat dari program KKNT yaitu membuat mahasiswa mampu melihat potensi desa, mengidentifikasi masalah dan mencari solusi untuk meningkatkan potensi dan menjadi desa mandiri, Membuat mahasiswa dapat mengaplikasikan ilmu yang dimiliki secara kolaboratif bersama dengan Pemerintah Desa dan unsur masyarakat untuk membangun desa.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Mahasiswa berasal dari Program Studi yang mengajukan program kampus merdeka dengan bentuk kegiatan Kuliah Kerja Nyata Tematik atau KKNT; Mahasiswa Aktif yang terdaftar pada PDDikti dibuktikan dengan Kartu Studi Mahasiswa atau KSM; Termasuk dalam mahasiswa kelas reguler alias bukan mahasiswa alih jenjang, dan program lainnya pada program studi strata 1; Telah lulus dari sedikitnya 90 sks pada program studi asal dan tidak ada nilai E, dibuktikan dengan kartu hasil studi; Memiliki IPK lebih dari sama dengan 2.0, dibuktikan dengan kartu hasil studi; Sehat jasmani dan rohani, dibuktikan dengan surat keterangan sehat yang masih berlaku, serta tidak sedang hamil bagi wanita; Lulus dari seleksi yang diadakan oleh Institut Teknologi Telkom Purwokerto dan atau mitra tujuan, dibuktikan dengan LoA  atau Letter of Agreement; Dilakukan secara berkelompok, anggota berjumlah 5 sampai 10 mahasiswa per kelompok dengan minimal 3 disiplin keilmuan yang berbeda; Ketentuan lain dapat diatur oleh perguruan tinggi pelaksana.",
+        "qas": [
+            {
+                "id": "00130",
+                "is_impossible": false,
+                "question": "Apa syarat-syarat yang harus dipenuhi untuk mendaftar KKNT?",
+                "answers": [
+                    {
+                        "text": "Mahasiswa berasal dari Program Studi yang mengajukan program kampus merdeka dengan bentuk kegiatan Kuliah Kerja Nyata Tematik atau KKNT; Mahasiswa Aktif yang terdaftar pada PDDikti dibuktikan dengan Kartu Studi Mahasiswa atau KSM; Termasuk dalam mahasiswa kelas reguler alias bukan mahasiswa alih jenjang, dan program lainnya pada program studi strata 1; Telah lulus dari sedikitnya 90 sks pada program studi asal dan tidak ada nilai E, dibuktikan dengan kartu hasil studi; Memiliki IPK lebih dari sama dengan 2.0, dibuktikan dengan kartu hasil studi; Sehat jasmani dan rohani, dibuktikan dengan surat keterangan sehat yang masih berlaku, serta tidak sedang hamil bagi wanita; Lulus dari seleksi yang diadakan oleh Institut Teknologi Telkom Purwokerto dan atau mitra tujuan, dibuktikan dengan LoA  atau Letter of Agreement; Dilakukan secara berkelompok, anggota berjumlah 5 sampai 10 mahasiswa per kelompok dengan minimal 3 disiplin keilmuan yang berbeda; Ketentuan lain dapat diatur oleh perguruan tinggi pelaksana.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Cara untuk mengakses repository tidak perlu login, akun repository hanya diperuntukkan untuk dosen. Semua Babnya open acces kecuali Bab 4 dan Lampiran pada skripsi Bab 3 dan Lampiran pada laporan PKL/KP/MBKM, untuk mengakses Bab yang terkunci bisa menggunakan layanan online kami infonya dapat dilihat di Instagram @ittplibrary. Sistem layanan onlinenya menggunakan Google Meet, nanti request skripsi siapa yang ingin dibuka kemudian akan kami share screen dari sini. Kemudian dari situ bisa di screen shoot atau screen record.",
+        "qas": [
+            {
+                "id": "00140",
+                "is_impossible": false,
+                "question": "Bagaimana cara megakses skripsi atau laporan di repository?",
+                "answers": [
+                    {
+                        "text": "Cara untuk mengakses repository tidak perlu login, akun repository hanya diperuntukkan untuk dosen.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Perpustakaan ITTP berlokasi di Gedung Rektorat Lantai 1. Layanan Online ITTP Library bisa diakses pada link ittp.link/tanyapustakawan atau ittp.link/askalibrarian pada hari dan jam kerja yaitu pada hari Senin – Jum’at pukul 08.00 – 16.00. Untuk kunjungan ke perpustakaan secara offline dimulai dari pukul 08-00 - 16.00 setiap hari senin - juma't kecuali jika ada perubahan secara tiba-tiba akan diinformasikan pada instagram @ittplibrary. Untuk dapat masuk dan memakai fasilitas kampus perlu dilakuakn reservasi kunjungan telebih dahulu pada web dlibrary.ittelkom-pwt.ac.id atau dapat scan barcode di pintu depan perpustakaan untuk mendapatkan link reservasinya.",
+        "qas": [
+            {
+                "id": "00143",
+                "is_impossible": false,
+                "question": "Berada dimana perpustakaan ITTP?",
+                "answers": [
+                    {
+                        "text": "Perpustakaan ITTP berlokasi di Gedung Rektorat Lantai 1.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Untuk persyaratan Bebas Pustaka dapat dilihat pada ittp.link/bebaspustaka, ketentuan pada poin-poin syarat bebas pustaka: 1. Tanda tangan dalam persyataran bebas pustaka harus basah. 2. SKBP akan dikirim setelah semua persyaratan sudah lengkap, silahkan bisa mengirim email beserta bukti donasi buku ke Perpustakaan baru kemudian SKBP akan diproses. 3. Sumbangan buku guna keperluan bebas pustaka syaratnya 2 buku, satu buku sesuai jurusan dan satu buku bebas seperti novel, komik, dsb dengan minimal harga Rp50.000,00 atau minimal tebal buku 250 halaman. 4. Donasi Point bisa digunakan untuk pengganti sumbangan buku ke Perpus. Jadi untuk menyumbang buku bisa dengan 3 cara, memberi buku cetak, e-book pada aplikasi ITTP Digital Library, dan Donasi Point pada aplikasi ITTP Digital Library. 5. Untuk donasi point tidak bisa dibayar langsung ke perpustakaan, pembayaran donasi point hanya bisa dilakukan pada aplikasi ITTP Digital Library. 6. Silahkan bisa langsung reply pada email sebelumnya, jangan dikirim dengan email baru. Jika akan dikirim dengan email baru mohon untuk dikirim persyaratan yang lainnya juga. 7. Untuk programnya silahkan bisa di upload pada drive kemudian lampirkan linknya pada email atau boleh mengirim dalam bentuk .rar atau .zip . Namun draft bebas pustaka yang lain mohon untuk tidak dikirim dalam bentuk .rar atau .zip",
+        "qas": [
+            {
+                "id": "00147",
+                "is_impossible": false,
+                "question": "Apa persyaratan Bebas Pustaka?",
+                "answers": [
+                    {
+                        "text": "Untuk persyaratan Bebas Pustaka dapat dilihat pada ittp.link/bebaspustaka",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Untuk pengecekan plagiarisme silahkan dokumennya dikirim ke email perpustakaan, formatnya dapat dilihat pada link https://dlibrary.ittelkompwt.ac.id/index.php?p=layanan_cek . Ketentuan cek plagiat bisa dilihat pada https://dlibrary.ittelkompwt.ac.id/index.php?p=layanan_cek , pastikan nama dokumen sudah benar sesuai format karena dokumen dengan nama yang salah akan kami kembalikan kepada pengirim untuk diedit terlebih dahulu. Perpustakaan menggunakan software Turnitin dan iThenticate untuk pengecekan plagiarisme, dokumen yang dikirim oleh sivitas akademika akan otomatis di cek menggunakan Turnitin, jika ingin dicek menggunakan iThenticate bisa request pada subject email. Untuk saat ini perpustakaan tidak menggunakan aplikasi Plagiarism Detector lagi. Tidak, pengecekan plagiarisme hanya bisa dilakukan oleh perpustakaan atau dosen pembimbing. Jika untuk syarat sidang akademik akan langsung menolak jika hasilnya didatapkan dari luar kampus. Petugas akan selalu mengecek email yang masuk secara berkala pada hari dan jam kerja, jika load sedang tinggi maka hasil yang didapatkan mungkin bisa cukup lama dan sebaliknya. Namun kami akan mengirim hasil plagiarisme tidak lebih dari 1x24 jam, jika sudah lebih dari itu silahkan bisa hubungi kami melalui WhatsApp layanan. Pengiriman dokumen pada hari sabtu, minggu,atau pada libur hari besar akan dicek pada hari kerja selanjutnya.",
+        "qas": [
+            {
+                "id": "00160",
+                "is_impossible": false,
+                "question": "Bagaimana tahapan pengecekan plagiarisme?",
+                "answers": [
+                    {
+                        "text": "Untuk pengecekan plagiarisme silahkan dokumennya dikirim ke email perpustakaan, formatnya dapat dilihat pada link https://dlibrary.ittelkompwt.ac.id/index.php?p=layanan_cek .",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Untuk menggunakan ruang diskusi bisa reservasi terlebih dahulu pada ittp.link/reservasiruangdiskusi, sebelum reservasi mohon untuk melihat jadwalnya terlebih dahulu pada ittp.link/jadwalruangdiskusi . Minimal pemakaian untuk 5 orang maksimal 10 orang. Maksimal waktu peminjaman 2 jam, jika lebih dari itu silahkan untuk menggunakan surat peminjaman ruangan. Untuk ruang audio visual silahkan langsung bisa dipakai jika memang kosong. Ruang laktasi merupakan ruangan khusus bagi ibu yang menyusui, yang mana akan menampung ASI. Ruangan laktasi dapat langsung dipakai jika memang kosong.",
+        "qas": [
+            {
+                "id": "00167",
+                "is_impossible": false,
+                "question": "Panduan untuk memakai ruang Diskusi",
+                "answers": [
+                    {
+                        "text": "Untuk menggunakan ruang diskusi bisa reservasi terlebih dahulu pada ittp.link/reservasiruangdiskusi, sebelum reservasi mohon untuk melihat jadwalnya terlebih dahulu pada ittp.link/jadwalruangdiskusi .",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
